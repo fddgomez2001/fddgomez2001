@@ -14,6 +14,15 @@
 
 ---
 
+## 🚨 **Important Note:**
+<div align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px; border-left: 4px solid #7A3EFF; margin: 20px 0;">
+  
+📌 **Disclaimer:** I am not new to GitHub! I created this brand new account to maintain clean repositories and ensure easier access to my projects. This fresh start allows for better organization and a more focused portfolio.
+
+</div>
+
+---
+
 ## 👨‍💻 About Me Section
 
 <div align="center" style="margin: 20px 0;">
@@ -44,22 +53,32 @@ I'm passionate about coding and problem-solving, and I enjoy turning ideas into 
 
 <p align="center">
   <!-- Facebook -->
-  <a href="https://www.facebook.com/frank.gomez030901" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=61586171043378" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
   
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/fdd.gomez2001/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/frankdweezelgomez/" target="_blank">
+  <a href="https://www.linkedin.com/in/fddgomez2001" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/channel/UC3lJoGX0aQbywK03iqP0bNA" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
+  </a>
+  
   <!-- Email -->
-  <a href="mailto:frankgomez030901@gmail.com">
+  <a href="mailto:fdd.gomez2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
   <!-- GitHub -->
-  <a href="https://github.com/frankshamida" target="_blank">
+  <a href="https://github.com/fddgomez2001" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -138,13 +157,13 @@ I'm passionate about coding and problem-solving, and I enjoy turning ideas into 
 <div align="center">
 
 <!-- GitHub Stats -->
-![Frank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frankshamida&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7A3EFF&icon_color=7A3EFF&text_color=ffffff&include_all_commits=false&count_private=false)
+![Frank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fddgomez2001&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7A3EFF&icon_color=7A3EFF&text_color=ffffff&include_all_commits=false&count_private=false)
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=frankshamida&theme=radical&hide_border=true&background=0d1117&stroke=7A3EFF&ring=7A3EFF&fire=7A3EFF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7A3EFF&sideLabels=7A3EFF&dates=9e9e9e)
+![GitHub Streak](https://streak-stats.demolab.com?user=fddgomez2001&theme=radical&hide_border=true&background=0d1117&stroke=7A3EFF&ring=7A3EFF&fire=7A3EFF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7A3EFF&sideLabels=7A3EFF&dates=9e9e9e)
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frankshamida&theme=radical&hide_border=true&bg_color=0d1117&title_color=7A3EFF&text_color=ffffff&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fddgomez2001&theme=radical&hide_border=true&bg_color=0d1117&title_color=7A3EFF&text_color=ffffff&layout=compact&langs_count=8)
 
 </div>
 
@@ -153,7 +172,7 @@ I'm passionate about coding and problem-solving, and I enjoy turning ideas into 
 ## 📈 Activity Graph:
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frankshamida&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=7A3EFF&line=7A3EFF&point=ffffff" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fddgomez2001&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=7A3EFF&line=7A3EFF&point=ffffff" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -161,7 +180,7 @@ I'm passionate about coding and problem-solving, and I enjoy turning ideas into 
 ## 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=frankshamida&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fddgomez2001&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -172,7 +191,7 @@ I'm passionate about coding and problem-solving, and I enjoy turning ideas into 
 
 ### 🌟 Thanks for visiting! 🌟
   
-![Visitor Count](https://komarev.com/ghpvc/?username=frankshamida&color=7A3EFF&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=fddgomez2001&color=7A3EFF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
